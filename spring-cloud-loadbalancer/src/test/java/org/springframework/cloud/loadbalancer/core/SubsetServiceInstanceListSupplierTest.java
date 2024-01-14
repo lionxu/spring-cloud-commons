@@ -40,7 +40,7 @@ import static org.mockito.Mockito.when;
 import static org.springframework.cloud.loadbalancer.core.LoadBalancerTestUtils.buildLoadBalancerClientFactory;
 
 /**
- * Tests for {@link SubsetServiceInstanceListSupplier}
+ * Tests for {@link SubsetServiceInstanceListSupplier}.
  *
  * @author Zhuozhi Ji
  */
